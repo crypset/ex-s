@@ -1,0 +1,5 @@
+run:
+	<comand>
+	
+stop:
+	<comand>
