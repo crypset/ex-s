@@ -6,6 +6,7 @@ const authRouter = require('./auth.router');
 
 // router.use('/auth', authRouter);
 // router.use('/users', userRouter);
+//console.log(test)
 
 router.get("/", (req, res ) => {res.json({"6": "bit"})})
 
